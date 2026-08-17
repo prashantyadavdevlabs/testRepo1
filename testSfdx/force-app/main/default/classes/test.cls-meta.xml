@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ApexClass xmlns="http://soap.sforce.com/2006/04/metadata">
+    <types>
+        <members>YourApexClassName</members>
+        <name>ApexClass</name>
+    </types>
+    <version>67.0</version>
+</ApexClass>
